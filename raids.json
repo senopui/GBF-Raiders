@@ -1264,6 +1264,14 @@
 	"element": "Water"
 },
 {
+	"english": "Lvl 100 Snow White",
+	"japanese": "Lv100 スノウホワイト",
+	"room": "lvl100snowwhite",
+	"image": "/assets/raids/BattleRaid_Snow_White_Nightmare100.png",
+	"category": "Unite and Fight",
+	"element": "Water"
+},
+{
 	"english": "Lvl 30 Gorilla",
 	"japanese": "Lv30 ゴリラ",
 	"room": "lvl30gorilla",
