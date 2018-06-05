@@ -1026,7 +1026,7 @@
 {
 	"english": "Lvl 60 Cocoa Creepy",
 	"japanese": "Lv60 チョコポーチ",
-	"room": "lvl50cocoacreepy",
+	"room": "lvl60cocoacreepy",
 	"image": "/assets/raids/BattleRaid_Cocoa_Creepy_Extreme.png",
 	"category": "Unite and Fight",
 	"element": "Light"
@@ -1264,10 +1264,27 @@
 	"element": "Water"
 },
 {
-	"english": "Lvl 100 Snow White",
-	"japanese": "Lv100 スノウホワイト",
-	"room": "lvl100snowwhite",
-	"image": "/assets/raids/BattleRaid_Snow_White_Nightmare100.png",
-	"category": "Unite and Fight",
+	"english": "Lvl 30 Gorilla",
+	"japanese": "Lv30 ゴリラ",
+	"room": "lvl30gorilla",
+	"image": "/assets/raids/BattleRaid_Handsome_Gorilla_Very_Hard.png",
+	"category": "Event",
+	"element": "Water"
+},
+{
+	"english": "Lvl 50 Archaic Gorilla",
+	"japanese": "Lv50 アルカイック・ゴリラ",
+	"room": "lvl50archaicgorilla",
+	"image": "/assets/raids/BattleRaid_Handsome_Gorilla_Extreme.png",
+	"category": "Event",
+	"element": "Water"
+},
+{
+	"english": "Lvl 100 Impossible Gorilla",
+	"japanese": "Lv100 ハイレベル・ゴリラ",
+	"room": "lvl100impossiblegorilla",
+	"image": "/assets/raids/BattleRaid_Handsome_Gorilla_Impossible.png",
+	"category": "Event",
 	"element": "Water"
 }]
+
